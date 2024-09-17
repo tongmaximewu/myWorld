@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      flask:
+        specifier: ^0.2.10
+        version: 0.2.10
+
+packages:
+
+  flask@0.2.10:
+    resolution: {integrity: sha512-Zy69KIuFsoX0o2W5uDHHk1GHMwRT8QT0AboPQY7b1soCfJ2pfwKxHF2AGVwJmDUjzawgOavoY/UsXnZ7fk3lVQ==}
+
+snapshots:
+
+  flask@0.2.10: {}
